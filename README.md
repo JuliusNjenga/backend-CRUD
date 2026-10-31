@@ -1,4 +1,5 @@
 # BACKEND API CRUD
+a backend API to do crud operation on
 ## FEATURES
 * Inserting new products to Postgres
 * deleting products from databases
